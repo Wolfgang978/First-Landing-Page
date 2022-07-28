@@ -1,0 +1,45 @@
+* {
+ background-color: rgb(175, 212, 245);
+ text-align: center;
+}
+h1 {
+  text-align: center;
+  display: block;
+}
+.toppingPage {
+  position: fixed;
+  text-align: center;
+}
+header {
+  position: fixed;
+  display: block;
+  width: 100%;
+  
+}
+ul {
+  text-align: right;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 5px;
+  background-color: bisque;
+  margin: right 10px;
+}
+img {
+  height: 300px; width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+caption {
+  display: block;
+  margin: 0 auto;
+
+}
+p {
+  display: inline;
+}
+.aboutMe {
+  
+
+}
